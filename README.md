@@ -3,7 +3,7 @@
 
 **讓旅途，暫時停在你的桌面。**
 
-Elaina Studio 製作的 macOS 像素桌面寵物，以《魔女之旅》的伊蕾娜為主題。一位有自己步調的魔女，今天決定在你的桌面上稍作停留。
+為 macOS 打造的伊蕾娜像素桌面寵物。一位有自己步調的魔女，今天決定在你的桌面上稍作停留。
 
 <img src="Artwork/Library/broom/broom-preview.gif" alt="騎著掃帚的伊蕾娜" width="150">
 
@@ -40,11 +40,11 @@ Elaina Studio 製作的 macOS 像素桌面寵物，以《魔女之旅》的伊�
 
 想了解專案或參與開發，可以從 [開發指引](CONTRIBUTING.md)、[技術結構](docs/ARCHITECTURE.md) 與 [美術素材](Artwork/README.md) 開始。
 
-由 **Elaina Studio** 製作與維護。像素字體採用 Cubic 11，完整授權收錄於 [字型授權](app/Assets/Fonts/OFL.txt)。
+像素字體採用 Cubic 11，完整授權收錄於 [字型授權](app/Assets/Fonts/OFL.txt)。
 
 
 ## 關於這份作品
 
-這是 Elaina Studio 製作的非官方同人桌面寵物。《魔女之旅》及伊蕾娜角色的相關權利屬於原權利人。開場引言為本專案原創文案，並非原作摘錄。
+這是以《魔女之旅》伊蕾娜為主題的非官方同人作品。《魔女之旅》及伊蕾娜角色的相關權利屬於原權利人。開場引言為本專案原創文案，並非原作摘錄。
 
 原始碼公開供檢視與建置；本儲存庫目前沒有另授予程式或角色美術的開源授權。第三方字型依隨附的 OFL 授權使用，來源見 [素材與來源](Artwork/SOURCES.md)。
