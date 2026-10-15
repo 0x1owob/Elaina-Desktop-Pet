@@ -23,7 +23,7 @@ Elaina Studio 製作的 macOS 像素桌面寵物，以《魔女之旅》的伊�
 
 ## 請她來歇歇腳
 
-從 [版本發佈頁](https://github.com/0x1owob/Elaina-Desktop-Pet-Public/releases/latest) 下載 macOS 版本。需要 **macOS 12 或以上**，支援 Apple Silicon 與 Intel。
+從 [版本發佈頁](https://github.com/0x1owob/Elaina-Desktop-Pet/releases/latest) 下載 macOS 版本。需要 **macOS 12 或以上**，支援 Apple Silicon 與 Intel。
 
 1. 下載 ZIP 並解壓縮。
 2. 將 `Elaina.app` 放入「應用程式」資料夾後開啟。
