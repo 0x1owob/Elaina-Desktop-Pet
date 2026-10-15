@@ -1,6 +1,6 @@
 # 伊蕾娜桌寵 · macOS
 
-目前版本 **2.2.1／build12**。使用 Swift 與 AppKit，包含 Apple Silicon／Intel 通用執行檔，最低部署目標為 macOS 12。
+目前版本 **2.2.2／build13**。使用 Swift 與 AppKit，包含 Apple Silicon／Intel 通用執行檔，最低部署目標為 macOS 12。
 
 ## 操作
 

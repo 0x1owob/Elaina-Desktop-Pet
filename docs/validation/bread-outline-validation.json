@@ -1,0 +1,82 @@
+{
+  "version": "2.2.2",
+  "build": 13,
+  "date": "2026-10-15",
+  "scope": "Bread character outline colour repair; runtime and display sprites",
+  "runtime_frames": 10,
+  "display_frames": 4,
+  "sprite_dimensions_and_alpha_unchanged": true,
+  "pixels_outside_recorded_outline_masks_unchanged": true,
+  "face_and_bread_region_pixels_unchanged": true,
+  "identical_runtime_outline_mask_across_ten_frames": true,
+  "eating_animation_json_unchanged": true,
+  "runtime_frame_duration_ms": 800,
+  "runtime_duration_ms": 8000,
+  "display_frame_duration_ms": 270,
+  "transparent_display_loop": true,
+  "swift_source_changed": false,
+  "packaging_method": "Reuse validated universal executable code, update resources and version, then re-sign; no recompilation",
+  "asset_self_test_pass_lines": 17,
+  "strict_deep_signature": true,
+  "architectures": {
+    "Elaina": "x86_64 arm64",
+    "elaina-notify": "x86_64 arm64"
+  },
+  "installed_and_canonical_bundle_match_validated_package": true,
+  "user_dialogues_and_settings_preserved": true,
+  "gui_eating_test": "not exercised through UI automation; decoded-asset and preview checks performed",
+  "CPU_testing": "not performed",
+  "image_generation_calls": 0,
+  "runtime_pngs": [
+    {
+      "path": "app/Assets/bread-progress-00.png",
+      "sha256": "bcd6e0a390c787e1847f5e798d1006c70a02746f6d04126c04851b201e49a3b4",
+      "outline_pixels_recoloured": 13853
+    },
+    {
+      "path": "app/Assets/bread-progress-01.png",
+      "sha256": "99fd8b26c653904a78ebc5c60cde5ff9eb6533b6d19672426a46e41fa1b34659",
+      "outline_pixels_recoloured": 13853
+    },
+    {
+      "path": "app/Assets/bread-progress-02.png",
+      "sha256": "f06d604d3bb8e81541fb5de62fe96110a89fc71b5ebc87947c1384aa1a3b01a9",
+      "outline_pixels_recoloured": 13853
+    },
+    {
+      "path": "app/Assets/bread-progress-03.png",
+      "sha256": "88244132e1c010b7cd7613ad43eb25165a75d0d46c416f7e030ef52623c646a1",
+      "outline_pixels_recoloured": 13853
+    },
+    {
+      "path": "app/Assets/bread-progress-04.png",
+      "sha256": "eceb907acf909aa6072b3e406d53a1c58e0acd17f6c4cd95391f07cacef51182",
+      "outline_pixels_recoloured": 13853
+    },
+    {
+      "path": "app/Assets/bread-progress-05.png",
+      "sha256": "62242ee5145bfe5f2a9a82d52c40cbb4f1a396b0896547e835c576e9b06b2e99",
+      "outline_pixels_recoloured": 13853
+    },
+    {
+      "path": "app/Assets/bread-progress-06.png",
+      "sha256": "32f1fa786d33bb3e7f6712fc8484e032886e8ec6cb1b7408283279e30445438c",
+      "outline_pixels_recoloured": 13853
+    },
+    {
+      "path": "app/Assets/bread-progress-07.png",
+      "sha256": "2185fa8292c0aebe7824806823ed7774f0fcad055fe28244ed6b3196c09db671",
+      "outline_pixels_recoloured": 13853
+    },
+    {
+      "path": "app/Assets/bread-progress-08.png",
+      "sha256": "9e61ddb682915fd8fc0d5f6535298a1598583cb4f08587782d70aae24beb6c58",
+      "outline_pixels_recoloured": 13853
+    },
+    {
+      "path": "app/Assets/bread-progress-09.png",
+      "sha256": "bb1326c1802e71143824500ec7410410938e17c55dcf855872251bca6fe69a8e",
+      "outline_pixels_recoloured": 13853
+    }
+  ]
+}
