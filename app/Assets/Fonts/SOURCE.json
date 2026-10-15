@@ -1,0 +1,21 @@
+{
+  "project": "Cubic 11",
+  "author_repository": "https://github.com/ACh-K/Cubic-11",
+  "commit": "4c566f7d6cc5c05ee360fe9cff56b5da1fcafd4d",
+  "retrieved_date": "2026-10-14",
+  "unmodified": true,
+  "files": {
+    "Cubic_11.ttf": {
+      "url": "https://raw.githubusercontent.com/ACh-K/Cubic-11/4c566f7d6cc5c05ee360fe9cff56b5da1fcafd4d/fonts/ttf/Cubic_11.ttf",
+      "sha256": "0193f5f033612496df6b45ee92ac3b335bc6a5a24ff95da55ca87b33e57dcf62",
+      "bytes": 2773732
+    },
+    "OFL.txt": {
+      "url": "https://raw.githubusercontent.com/ACh-K/Cubic-11/4c566f7d6cc5c05ee360fe9cff56b5da1fcafd4d/OFL.txt",
+      "sha256": "2b6e5938e5cffa0b9e183bd05f8c363e174e7ebed1a0556e2855fd1707fa2188",
+      "bytes": 5364
+    }
+  },
+  "font_version": "1.451",
+  "postscript_name": "Cubic_11"
+}

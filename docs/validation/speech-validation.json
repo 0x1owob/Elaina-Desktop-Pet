@@ -1,0 +1,294 @@
+{
+  "checks" : [
+    "Official Cubic 11 loads at 12pt in the test process",
+    "Drawing and measurement share the loaded face",
+    "Text has no outline or shadow and remains opaque",
+    "Text opacity is independent of the bubble background",
+    "Missing font safely permits the system-font fallback",
+    "Bundled dialogue glyphs exist: 今天的我，也是一位相當可愛的魔女呢。",
+    "Bundled dialogue glyphs exist: 今天的帽子也很完美呢。",
+    "Bundled dialogue glyphs exist: 這麼從容的魔女是誰呢？ \/ 嗯，是我。",
+    "Bundled dialogue glyphs exist: 偶爾欣賞一下自己的旅途，也不錯。",
+    "Bundled dialogue glyphs exist: 旅途還很長呢。",
+    "Bundled dialogue glyphs exist: 今天要去哪裡呢？",
+    "Bundled dialogue glyphs exist: 我是魔女伊蕾娜。",
+    "Bundled dialogue glyphs exist: 偶爾休息也不錯。",
+    "Bundled dialogue glyphs exist: 一起去看看新的風景吧。",
+    "Bundled dialogue glyphs exist: 出發吧！",
+    "Bundled dialogue glyphs exist: 嗯？怎麼了？",
+    "Bundled dialogue glyphs exist: 找我有事嗎？",
+    "Bundled dialogue glyphs exist: 呵呵，今天的我也很可愛吧？",
+    "System-supported rare CJK and emoji resolve without missing glyphs",
+    "System-supported rare CJK and emoji resolve without missing glyphs",
+    "Absent Cubic glyphs use the native font cascade",
+    "Wrapped text fits its bubble and screen at 390pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 1200pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 390pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 1200pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 390pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 1200pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 390pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 1200pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 390pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 1200pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 390pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 1200pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 390pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 1200pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 390pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 1200pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 390pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 1200pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 390pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 1200pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 390pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 1200pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 390pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 1200pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 390pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 1200pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 390pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 1200pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 390pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 1200pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 390pt",
+    "Actual drawing frame includes all text without truncation",
+    "Wrapped text fits its bubble and screen at 1200pt",
+    "Actual drawing frame includes all text without truncation"
+  ],
+  "fallbackFonts" : [
+    "AppleColorEmoji",
+    "PingFangTC-Regular"
+  ],
+  "fontName" : "Cubic_11",
+  "layouts" : [
+    {
+      "height" : 32,
+      "screenWidth" : 390,
+      "text" : "今天的我，也是一位相當可愛的魔女呢。",
+      "width" : 262
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 1200,
+      "text" : "今天的我，也是一位相當可愛的魔女呢。",
+      "width" : 262
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 390,
+      "text" : "今天的帽子也很完美呢。",
+      "width" : 171
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 1200,
+      "text" : "今天的帽子也很完美呢。",
+      "width" : 171
+    },
+    {
+      "height" : 50,
+      "screenWidth" : 390,
+      "text" : "這麼從容的魔女是誰呢？\n嗯，是我。",
+      "width" : 171
+    },
+    {
+      "height" : 50,
+      "screenWidth" : 1200,
+      "text" : "這麼從容的魔女是誰呢？\n嗯，是我。",
+      "width" : 171
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 390,
+      "text" : "偶爾欣賞一下自己的旅途，也不錯。",
+      "width" : 236
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 1200,
+      "text" : "偶爾欣賞一下自己的旅途，也不錯。",
+      "width" : 236
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 390,
+      "text" : "旅途還很長呢。",
+      "width" : 119
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 1200,
+      "text" : "旅途還很長呢。",
+      "width" : 119
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 390,
+      "text" : "今天要去哪裡呢？",
+      "width" : 132
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 1200,
+      "text" : "今天要去哪裡呢？",
+      "width" : 132
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 390,
+      "text" : "我是魔女伊蕾娜。",
+      "width" : 132
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 1200,
+      "text" : "我是魔女伊蕾娜。",
+      "width" : 132
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 390,
+      "text" : "偶爾休息也不錯。",
+      "width" : 132
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 1200,
+      "text" : "偶爾休息也不錯。",
+      "width" : 132
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 390,
+      "text" : "一起去看看新的風景吧。",
+      "width" : 171
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 1200,
+      "text" : "一起去看看新的風景吧。",
+      "width" : 171
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 390,
+      "text" : "出發吧！",
+      "width" : 80
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 1200,
+      "text" : "出發吧！",
+      "width" : 80
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 390,
+      "text" : "嗯？怎麼了？",
+      "width" : 106
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 1200,
+      "text" : "嗯？怎麼了？",
+      "width" : 106
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 390,
+      "text" : "找我有事嗎？",
+      "width" : 106
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 1200,
+      "text" : "找我有事嗎？",
+      "width" : 106
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 390,
+      "text" : "呵呵，今天的我也很可愛吧？",
+      "width" : 197
+    },
+    {
+      "height" : 32,
+      "screenWidth" : 1200,
+      "text" : "呵呵，今天的我也很可愛吧？",
+      "width" : 197
+    },
+    {
+      "height" : 53,
+      "screenWidth" : 390,
+      "text" : "旅途，還很長呢。！？「伊蕾娜」\n𠮷𩸽 😊👍🙂",
+      "width" : 223
+    },
+    {
+      "height" : 53,
+      "screenWidth" : 1200,
+      "text" : "旅途，還很長呢。！？「伊蕾娜」\n𠮷𩸽 😊👍🙂",
+      "width" : 223
+    },
+    {
+      "height" : 608,
+      "screenWidth" : 390,
+      "text" : "旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 ",
+      "width" : 280
+    },
+    {
+      "height" : 608,
+      "screenWidth" : 1200,
+      "text" : "旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 旅途還很長呢。「伊蕾娜」🙂 ",
+      "width" : 280
+    },
+    {
+      "height" : 170,
+      "screenWidth" : 390,
+      "text" : "ElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElaina",
+      "width" : 280
+    },
+    {
+      "height" : 170,
+      "screenWidth" : 1200,
+      "text" : "ElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElainaElaina",
+      "width" : 280
+    }
+  ],
+  "physicalDisplayValidation" : "not performed",
+  "pointSize" : 12,
+  "renderedScales" : [
+    1,
+    2
+  ]
+}

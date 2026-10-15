@@ -1,0 +1,218 @@
+{
+  "grab": {
+    "frameWidth": 887,
+    "frameHeight": 887,
+    "displayScale": 0.1638819270398218,
+    "hanging": true,
+    "frames": [
+      {
+        "file": "grab-00.png",
+        "anchor": [
+          521,
+          847
+        ],
+        "durationMS": 100
+      },
+      {
+        "file": "grab-01.png",
+        "anchor": [
+          397,
+          847
+        ],
+        "durationMS": 100
+      }
+    ]
+  },
+  "held": {
+    "frameWidth": 627,
+    "frameHeight": 627,
+    "displayScale": 0.2147418354314906,
+    "hanging": true,
+    "frames": [
+      {
+        "file": "held-00.png",
+        "anchor": [
+          333.25,
+          573
+        ],
+        "durationMS": 160
+      },
+      {
+        "file": "held-01.png",
+        "anchor": [
+          293.25,
+          582
+        ],
+        "durationMS": 160
+      },
+      {
+        "file": "held-02.png",
+        "anchor": [
+          333.75,
+          544
+        ],
+        "durationMS": 160
+      },
+      {
+        "file": "held-03.png",
+        "anchor": [
+          297.25,
+          547
+        ],
+        "durationMS": 160
+      }
+    ]
+  },
+  "release": {
+    "frameWidth": 627,
+    "frameHeight": 627,
+    "displayScale": 0.19460978835978837,
+    "hanging": false,
+    "frames": [
+      {
+        "file": "release-00.png",
+        "anchor": [
+          337.75,
+          594
+        ],
+        "durationMS": 130
+      },
+      {
+        "file": "release-01.png",
+        "anchor": [
+          299,
+          594
+        ],
+        "durationMS": 130
+      },
+      {
+        "file": "release-02.png",
+        "anchor": [
+          342,
+          566
+        ],
+        "durationMS": 130
+      },
+      {
+        "file": "release-03.png",
+        "anchor": [
+          294,
+          567
+        ],
+        "durationMS": 130
+      }
+    ]
+  },
+  "annoyed": {
+    "frameWidth": 887,
+    "frameHeight": 887,
+    "displayScale": 0.12138728323699421,
+    "hanging": false,
+    "frames": [
+      {
+        "file": "annoyed-00.png",
+        "anchor": [
+          476.5,
+          874
+        ],
+        "durationMS": 220
+      },
+      {
+        "file": "annoyed-01.png",
+        "anchor": [
+          400.0,
+          874
+        ],
+        "durationMS": 220
+      }
+    ]
+  },
+  "eating": {
+    "frameWidth": 704,
+    "frameHeight": 704,
+    "displayScale": 0.17918088737201365,
+    "hanging": false,
+    "frames": [
+      {
+        "file": "bread-progress-00.png",
+        "anchor": [
+          352,
+          645
+        ],
+        "durationMS": 800
+      },
+      {
+        "file": "bread-progress-01.png",
+        "anchor": [
+          352,
+          645
+        ],
+        "durationMS": 800
+      },
+      {
+        "file": "bread-progress-02.png",
+        "anchor": [
+          352,
+          645
+        ],
+        "durationMS": 800
+      },
+      {
+        "file": "bread-progress-03.png",
+        "anchor": [
+          352,
+          645
+        ],
+        "durationMS": 800
+      },
+      {
+        "file": "bread-progress-04.png",
+        "anchor": [
+          352,
+          645
+        ],
+        "durationMS": 800
+      },
+      {
+        "file": "bread-progress-05.png",
+        "anchor": [
+          352,
+          645
+        ],
+        "durationMS": 800
+      },
+      {
+        "file": "bread-progress-06.png",
+        "anchor": [
+          352,
+          645
+        ],
+        "durationMS": 800
+      },
+      {
+        "file": "bread-progress-07.png",
+        "anchor": [
+          352,
+          645
+        ],
+        "durationMS": 800
+      },
+      {
+        "file": "bread-progress-08.png",
+        "anchor": [
+          352,
+          645
+        ],
+        "durationMS": 800
+      },
+      {
+        "file": "bread-progress-09.png",
+        "anchor": [
+          352,
+          645
+        ],
+        "durationMS": 800
+      }
+    ]
+  }
+}

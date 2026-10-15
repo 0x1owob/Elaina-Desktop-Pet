@@ -1,0 +1,30 @@
+{
+  "scope": "presentation media only; runtime assets are in app/Assets",
+  "files": [
+    {
+      "path": "Library/broom/broom-preview.gif",
+      "bytes": 62981,
+      "sha256": "4d45e12ded55e8265d19fdea516109e4451838921ddabf6e4620f4d40c42edb3"
+    },
+    {
+      "path": "Library/broom/broom-preview.webp",
+      "bytes": 131982,
+      "sha256": "095d9d8e1ff11655ec8470df786c7cf47a915488b0f6e4d204415473629e9657"
+    },
+    {
+      "path": "Library/idle-walk/Walking-preview.gif",
+      "bytes": 290638,
+      "sha256": "7febd5560fd65e53cc26dc0a271ecdf84f9233925e9a916000b4b903aa57740c"
+    },
+    {
+      "path": "Library/bread-reference/bread-preview.gif",
+      "bytes": 59421,
+      "sha256": "f5b814396ccb5fce458ae8a5e375ff854650df55aec13ffdbbdda65682765d42"
+    },
+    {
+      "path": "Library/bread-reference/bread-preview.webp",
+      "bytes": 121712,
+      "sha256": "ac6f9186bbc10987b335287f0384db093f0f39b5f3aa56265298cc7cb0d097e6"
+    }
+  ]
+}

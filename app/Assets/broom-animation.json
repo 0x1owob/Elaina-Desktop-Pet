@@ -1,0 +1,28 @@
+{
+  "animation": "broom",
+  "direction": "right",
+  "frameWidth": 693,
+  "frameHeight": 693,
+  "frameCount": 4,
+  "frames": [
+    "frames/broom_0.png",
+    "frames/broom_1.png",
+    "frames/broom_2.png",
+    "frames/broom_3.png"
+  ],
+  "order": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "frameDurationMs": 180,
+  "loop": true,
+  "spritesheet": "broom-spritesheet.png",
+  "columns": 4,
+  "rows": 1,
+  "alpha": true,
+  "interpolation": "nearest",
+  "registration": "full canvas, identical frame bounds; preserve transparent padding",
+  "horizontalMirrorForLeft": true
+}

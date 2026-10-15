@@ -1,0 +1,14 @@
+.DS_Store
+app/build/
+app/*.app/
+app/*.zip
+__pycache__/
+*.pyc
+.env
+.env.*
+/management/
+/outputs/
+/.codex/
+/work/
+/Artwork/Incoming/
+/Artwork/Legacy/
