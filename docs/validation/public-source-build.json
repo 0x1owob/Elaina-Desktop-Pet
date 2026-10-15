@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-15",
+  "source_version": "2.2.2",
+  "build": 13,
+  "public_source_files": 80,
+  "broken_local_document_links": [],
+  "runtime_assets_and_code_match_development_source": true,
+  "only_source_edit": "One explanatory comment; compatibility preference keys retained",
+  "packaged_resources_match_source": 38,
+  "full_build_exit_code": 0,
+  "build_pass_output_lines": 1831,
+  "speech_checks": 85,
+  "notify_installer_tests": 4,
+  "strict_deep_signature": true,
+  "architectures": {
+    "Elaina": [
+      "x86_64",
+      "arm64"
+    ],
+    "elaina-notify": [
+      "x86_64",
+      "arm64"
+    ]
+  },
+  "GUI_retest": "not performed during source publication preparation",
+  "CPU_testing": "not performed",
+  "release_version": "2.2.1",
+  "release_zip_sha256": "a6bd08c8c00af5b07c9972a7d23af68c6f040106f2bd37e95030f7d1283a9284"
+}
